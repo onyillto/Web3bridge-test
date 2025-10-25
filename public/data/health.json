@@ -1,0 +1,136 @@
+
+{
+  "category": "Health",
+  "questions": [
+    {
+      "question": "What is the recommended daily intake of water for adults?",
+      "options": ["2-3 liters", "1 liter", "4-5 liters", "0.5 liters"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin is primarily obtained from sunlight exposure?",
+      "options": ["Vitamin D", "Vitamin C", "Vitamin A", "Vitamin B12"],
+      "correct": 0
+    },
+    {
+      "question": "What is the normal resting heart rate for adults?",
+      "options": ["60-100 bpm", "40-60 bpm", "100-120 bpm", "120-140 bpm"],
+      "correct": 0
+    },
+    {
+      "question": "Which food group should form the base of a healthy diet pyramid?",
+      "options": ["Grains", "Proteins", "Fats", "Sweets"],
+      "correct": 0
+    },
+    {
+      "question": "What does BMI stand for?",
+      "options": [
+        "Body Mass Index",
+        "Basal Metabolic Rate",
+        "Blood Mineral Index",
+        "Bone Mass Indicator"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How many hours of sleep do adults need per night?",
+      "options": ["7-9 hours", "5-6 hours", "9-11 hours", "4-5 hours"],
+      "correct": 0
+    },
+    {
+      "question": "What is the primary source of energy for the body?",
+      "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+      "correct": 0
+    },
+    {
+      "question": "Which mineral is essential for healthy bones and teeth?",
+      "options": ["Calcium", "Iron", "Potassium", "Magnesium"],
+      "correct": 0
+    },
+    {
+      "question": "What is hypertension commonly known as?",
+      "options": [
+        "High blood pressure",
+        "Low blood sugar",
+        "High cholesterol",
+        "Anemia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How often should adults engage in moderate aerobic activity?",
+      "options": [
+        "150 minutes per week",
+        "300 minutes per week",
+        "75 minutes per week",
+        "30 minutes per day"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which nutrient helps in blood clotting?",
+      "options": ["Vitamin K", "Vitamin E", "Vitamin B6", "Folate"],
+      "correct": 0
+    },
+    {
+      "question": "What is the leading cause of preventable death worldwide?",
+      "options": ["Tobacco use", "Alcohol", "Poor diet", "Lack of exercise"],
+      "correct": 0
+    },
+    {
+      "question": "How many calories are in one gram of protein?",
+      "options": ["4", "9", "7", "5"],
+      "correct": 0
+    },
+    {
+      "question": "What is the function of red blood cells?",
+      "options": [
+        "Carry oxygen",
+        "Fight infection",
+        "Clot blood",
+        "Digest food"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which type of fat is considered healthy for the heart?",
+      "options": [
+        "Unsaturated fats",
+        "Trans fats",
+        "Saturated fats",
+        "Cholesterol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the recommended daily fiber intake for adults?",
+      "options": ["25-30 grams", "10-15 grams", "40-50 grams", "5-10 grams"],
+      "correct": 0
+    },
+    {
+      "question": "Which organ filters waste from the blood?",
+      "options": ["Kidneys", "Liver", "Lungs", "Heart"],
+      "correct": 0
+    },
+    {
+      "question": "What does CPR stand for?",
+      "options": [
+        "Cardiopulmonary Resuscitation",
+        "Cardiac Pulse Recovery",
+        "Central Pulmonary Response",
+        "Cardio Pulmonary Revival"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How many servings of fruits and vegetables per day?",
+      "options": ["5 or more", "2-3", "10", "1"],
+      "correct": 0
+    },
+    {
+      "question": "What is the pH level of human blood?",
+      "options": ["7.35-7.45", "6.5-7.0", "7.5-8.0", "7.0-7.2"],
+      "correct": 0
+    }
+  ]
+}

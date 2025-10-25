@@ -1,0 +1,126 @@
+
+{
+  "category": "Sports",
+  "questions": [
+    {
+      "question": "In which sport would you perform a 'grand jeté'?",
+      "options": ["Gymnastics", "Swimming", "Tennis", "Basketball"],
+      "correct": 0
+    },
+    {
+      "question": "Who holds the record for the most goals in a single FIFA World Cup tournament?",
+      "options": ["Pelé", "Just Fontaine", "Gerd Müller", "Ronaldo"],
+      "correct": 1
+    },
+    {
+      "question": "What is the maximum number of players a baseball team can have on the field at once?",
+      "options": ["9", "10", "11", "8"],
+      "correct": 0
+    },
+    {
+      "question": "In tennis, what is the term for a score of zero?",
+      "options": ["Love", "Nil", "Duck", "Blank"],
+      "correct": 0
+    },
+    {
+      "question": "Which country won the first modern Olympic Games in 1896?",
+      "options": ["Greece", "USA", "France", "UK"],
+      "correct": 0
+    },
+    {
+      "question": "How many points is a touchdown worth in American football?",
+      "options": ["6", "7", "5", "3"],
+      "correct": 0
+    },
+    {
+      "question": "What is the diameter of a basketball hoop?",
+      "options": ["18 inches", "20 inches", "16 inches", "22 inches"],
+      "correct": 0
+    },
+    {
+      "question": "In which year was the first FIFA World Cup held?",
+      "options": ["1930", "1928", "1934", "1904"],
+      "correct": 0
+    },
+    {
+      "question": "Who is known as the 'Black Mamba' in basketball?",
+      "options": [
+        "Kobe Bryant",
+        "Michael Jordan",
+        "LeBron James",
+        "Shaquille O'Neal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the main material used in modern Olympic javelins?",
+      "options": ["Aluminum", "Steel", "Wood", "Fiberglass"],
+      "correct": 0
+    },
+    {
+      "question": "In cricket, how many players are on each team on the field?",
+      "options": ["11", "10", "12", "9"],
+      "correct": 0
+    },
+    {
+      "question": "Which sport features a 'bullpen'?",
+      "options": ["Baseball", "Soccer", "Rugby", "Hockey"],
+      "correct": 0
+    },
+    {
+      "question": "What is the distance of a marathon race?",
+      "options": ["42.195 km", "50 km", "30 km", "40 km"],
+      "correct": 0
+    },
+    {
+      "question": "In golf, what is a 'birdie'?",
+      "options": [
+        "One under par",
+        "One over par",
+        "Two under par",
+        "Hole in one"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which boxer was known as 'The Greatest'?",
+      "options": [
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Joe Frazier",
+        "Sugar Ray Robinson"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How many rings are there on the Olympic flag?",
+      "options": ["5", "6", "4", "7"],
+      "correct": 0
+    },
+    {
+      "question": "In volleyball, how many players per team on the court?",
+      "options": ["6", "5", "7", "4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the fastest ball speed recorded in professional cricket?",
+      "options": ["161.3 km/h", "150 km/h", "170 km/h", "140 km/h"],
+      "correct": 0
+    },
+    {
+      "question": "Which country invented ice hockey?",
+      "options": ["Canada", "USA", "Sweden", "Russia"],
+      "correct": 0
+    },
+    {
+      "question": "In Formula 1, what does 'pole position' mean?",
+      "options": [
+        "Starting first",
+        "Fastest lap",
+        "Best qualifier",
+        "Starting first"
+      ],
+      "correct": 2
+    }
+  ]
+}

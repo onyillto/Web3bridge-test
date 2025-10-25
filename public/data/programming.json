@@ -1,0 +1,161 @@
+
+{
+  "category": "Programming",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperText Machine Language",
+        "HighText Markup Language"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In Python, what is the output of print(2 ** 3)?",
+      "options": ["8", "6", "9", "5"],
+      "correct": 0
+    },
+    {
+      "question": "Which data structure uses FIFO principle?",
+      "options": ["Queue", "Stack", "Array", "Linked List"],
+      "correct": 0
+    },
+    {
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(log n)", "O(n)", "O(n^2)", "O(1)"],
+      "correct": 0
+    },
+    {
+      "question": "In JavaScript, what keyword is used to declare a variable?",
+      "options": ["let", "var", "const", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Sequential Query Language",
+        "Simple Query Language",
+        "Standard Query Language"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which loop is used for known iteration count in C++?",
+      "options": ["for", "while", "do-while", "foreach"],
+      "correct": 0
+    },
+    {
+      "question": "What is an API?",
+      "options": [
+        "Application Programming Interface",
+        "Advanced Programming Interface",
+        "Application Process Integration",
+        "Automated Programming Interface"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In object-oriented programming, what is encapsulation?",
+      "options": [
+        "Bundling data and methods",
+        "Inheritance",
+        "Polymorphism",
+        "Abstraction"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Cascading Simple Sheets"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which algorithm is used for shortest path in graphs with negative weights?",
+      "options": ["Bellman-Ford", "Dijkstra", "BFS", "DFS"],
+      "correct": 0
+    },
+    {
+      "question": "In React, what is the virtual DOM?",
+      "options": [
+        "A lightweight copy of real DOM",
+        "A server-side DOM",
+        "A database",
+        "A styling tool"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is a recursive function?",
+      "options": [
+        "Function that calls itself",
+        "Function with loops",
+        "Anonymous function",
+        "Higher-order function"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which HTTP status code means 'Not Found'?",
+      "options": ["404", "500", "200", "301"],
+      "correct": 0
+    },
+    {
+      "question": "In Python, how do you import a module?",
+      "options": [
+        "import module_name",
+        "require('module_name')",
+        "#include <module_name>",
+        "load module_name"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is Big O notation used for?",
+      "options": [
+        "Analyzing algorithm efficiency",
+        "Writing code",
+        "Debugging",
+        "Version control"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which language is primarily used for Android development?",
+      "options": ["Kotlin", "Swift", "JavaScript", "C#"],
+      "correct": 0
+    },
+    {
+      "question": "What does JSON stand for?",
+      "options": [
+        "JavaScript Object Notation",
+        "Java Standard Object Notation",
+        "JSON Object Notation",
+        "JavaScript Online Notation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "In Git, what command initializes a repository?",
+      "options": ["git init", "git clone", "git commit", "git push"],
+      "correct": 0
+    },
+    {
+      "question": "What is polymorphism in programming?",
+      "options": [
+        "Ability to process objects differently",
+        "Single form",
+        "Multiple inheritance",
+        "Data hiding"
+      ],
+      "correct": 0
+    }
+  ]
+}
